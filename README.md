@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saket Ingale
-- 👀 I’m interested in AI, Machine Learning, Deep Learning.
+- 👀 I’m interested in AI, Data Science, Machine Learning, Deep Learning.
 - I am an AI enthusiast, who believes in solving real world problems by using data science techniques on data to create a better World. 🌎
 - I enjoy exploring Machine Learning ocean by learning continuously. 🌊
 - I love to put my brain at work to solve data science problems. 🧠
