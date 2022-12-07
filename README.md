@@ -4,6 +4,7 @@
 - I enjoy exploring Machine Learning ocean by learning continuously. 🌊
 - I love to put my brain at work to solve data science problems. 🧠
 - 📫 You can reach me on email at saketvingale4@gmail.com and on twitter @the_ingale
+- 📱 LinkedIn: https://www.linkedin.com/in/saket-ingale/ 
 - Happy Coding...! 😊
 
 <!---
